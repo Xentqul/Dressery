@@ -20,6 +20,10 @@ include 'db.php'; // Подключение к базе данных
         rel="stylesheet">
     <link rel="stylesheet" href="style.css">
     <title>DRESSERY</title>
+    <meta property="og:title" content="Журнал о моде и стиле Dressery" />
+<meta property="og:type" content="magazine.text" />
+<meta property="og:url" content="https://xentqul.github.io/Dressery/"/>
+<meta property="og:image" content="https://i.pinimg.com/736x/d2/f5/4c/d2f54c49fd7febd2836ce653544b2da9.jpg"/>
 </head>
 
 <body>
